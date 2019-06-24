@@ -2,3 +2,9 @@
     font-family: Vtks LaPrensitcha;
     src: url('Vtks LaPrensitcha.ttf');
 }
+
+body {
+    font-family: 'Vtks LaPrensitcha.ttf';
+
+    background-image: url("../images/graffitiBg.jpg");
+}
