@@ -12,6 +12,15 @@ body {
     border: 1px solid blue;
 }
 
+#logo {
+    margin-left: 10%;
+    background-color: rgba(0, 0, 255, .1);
+    font-size: 200%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 1px solid blue;
+}
+
 .container {
     background-color: white;
     margin-top: 7%;
