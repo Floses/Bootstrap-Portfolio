@@ -7,6 +7,10 @@ body {
     background-image: url("../images/prism.png");
 }
 
+#topnav {
+    background-image: url("../images/swirl_pattern.png")
+}
+
 .container {
     background-color: white;
     margin-top: 7%;
