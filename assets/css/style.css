@@ -29,7 +29,7 @@ body {
     background-image: url("../images/swirl_pattern.png")
 }
 
-.row {
+#contenthead {
     background-color: rgba(0, 0, 255, .03);
     color: black;
     border: 1px solid blue;
@@ -52,5 +52,10 @@ img {
     background-image: url("../images/swirl_pattern.png");
     border: 1px solid blue;
     
+}
+
+#label {
+    background-color: rgba(0, 0, 255, .7);
+    font-weight: bold;
 }
 
