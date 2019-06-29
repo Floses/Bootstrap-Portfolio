@@ -8,32 +8,40 @@ body {
 }
 
 #topnav {
-    background-image: url("../images/swirl_pattern.png")
+    background-image: url("../images/swirl_pattern.png");
+    border: 1px solid blue;
 }
 
 .container {
     background-color: white;
     margin-top: 7%;
+    margin-bottom: 7%;
     border: inset rgba(0, 0, 255, .7);
     background-image: url("../images/swirl_pattern.png")
 }
 
-h1 {
+.row {
     background-color: rgba(0, 0, 255, .1);
     color: black;
     border: 1px solid blue;
     margin: 3% 0 3% 0;
 }
 
-p {
+.media {
     color: black;
+    font-weight: bold;
+    font-size: 120%;
 }
 
 img {
+    border: 2px solid black;
     width: 12em;
     height: 15em;
 }
 
-.footer-margin {
-    height: 100%;
+#footer {
+    background-image: url("../images/swirl_pattern.png");
+    border: 1px solid blue;
+    
 }
+
