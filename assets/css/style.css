@@ -12,13 +12,18 @@ body {
     background-image: url("../images/prism.png");
 }
 
+.container {
+    background-color: white;
+    margin-top: 7%;
+
+}
 
 h1 {
-    color: white;
+    color: black;
 }
 
 p {
-    color: white;
+    color: black;
 }
 
 img {
