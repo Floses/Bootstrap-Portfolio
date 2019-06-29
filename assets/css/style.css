@@ -14,7 +14,7 @@ body {
 
 #logo {
     margin-left: 10%;
-    background-color: rgba(0, 0, 255, .1);
+    background-color: rgba(0, 0, 255, .03);
     font-size: 200%;
     padding-left: 1%;
     padding-right: 1%;
@@ -30,7 +30,7 @@ body {
 }
 
 .row {
-    background-color: rgba(0, 0, 255, .1);
+    background-color: rgba(0, 0, 255, .03);
     color: black;
     border: 1px solid blue;
     margin: 3% 0 3% 0;
