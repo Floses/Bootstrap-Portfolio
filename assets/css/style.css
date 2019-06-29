@@ -11,8 +11,7 @@ body {
     background-color: white;
     margin-top: 7%;
     border: inset rgba(0, 0, 255, .7);
-    box-shadow: 1% 1% 1% 1%;
-
+    background-image: url("../images/swirl_pattern.png")
 }
 
 h1 {
